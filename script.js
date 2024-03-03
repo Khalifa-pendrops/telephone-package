@@ -40,7 +40,7 @@ class Telephone {
       console.log(`Dialing ${number}... \n`);
     } else {
       console.log(
-        "Phone number does not exist. Kindly add the phone number or exit."
+        "Phone number does not exist. Kindly add phone number or exit."
       );
     }
   }
